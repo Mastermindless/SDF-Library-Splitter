@@ -3,7 +3,6 @@ SDF Splitter is a simple R script designed to process a large SDF library to sin
 
 
 
-# SDF Splitter
 
 The SDF Splitter is a simple yet powerful R script designed to process a large SDF (Structure-Data File) containing multiple chemical compounds, separating it into individual SDF files. Each resulting file is named after its respective compound's catalog ID, facilitating easier management and analysis of chemical libraries.
 
